@@ -4,7 +4,7 @@
 > This repo includes the dataset, the `.pbix` report, and export-ready visuals for your portfolio.
 
 <p align="center">
-  <img src="Sales.png" alt="Total Sales Overview" width="85%">
+  <img src="Blinkit.jpg" alt="Total Sales Overview" width="85%">
 </p>
 
 ---
