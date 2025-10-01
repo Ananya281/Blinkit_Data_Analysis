@@ -48,10 +48,6 @@
 - **Average Rating** — mean item rating  
 - **Slicer Context** — Outlet Size / Type / Location, Item Type, Fat Content
 
-<p align="center">
-  <img src="Avg Sales.png" alt="Average Sales" width="70%">
-</p>
-
 ---
 
 ## 🌟 Dashboard Highlights
@@ -61,10 +57,6 @@
 - **Category Mix:** Bar charts for item types and fat content.  
 - **Outlet Analysis:** Donut + tables for outlet size, location tier, and type.  
 - **Heat-style Matrix:** Color-scaled table for quick cross-segment comparisons.
-
-<p align="center">
-  <img src="Items.png" alt="Item Mix" width="85%">
-</p>
 
 ---
 
@@ -90,18 +82,6 @@
 
 ---
 
-## 🚀 Enhancements Roadmap
+## Tools
 
-- Time-intelligence (MoM/YoY), rolling averages, decomposition tree  
-- Scenario parameters (price/discount sensitivity)  
-- Bookmarks for storytelling (Executive vs Ops views)  
-- Drillthrough pages per Outlet / Item  
-- Publish to Power BI Service & share as an app
-
----
-
-## 🙌 Credits
-
-- **Author:** Ananya281  
-- **Inspiration:** *Data Tutorials* — “Amazing Real Time Power BI Project (Blinkit)”  
-- **Tools:** Power BI Desktop, Excel, Microsoft Edge WebView2
+- Power BI Desktop, Excel, Microsoft Edge WebView2
